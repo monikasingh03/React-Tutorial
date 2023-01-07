@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is react course",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monikasingh03/React-Tutorial.git"
+  },
+  "author": "monika singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monikasingh03/React-Tutorial/issues"
+  },
+  "homepage": "https://github.com/monikasingh03/React-Tutorial#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
